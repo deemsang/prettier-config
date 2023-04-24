@@ -1,0 +1,13 @@
+{
+  "name": "@deemsang/prettier-config",
+  "version": "1.0.2",
+  "description": "my prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:deemsang/prettier-config.git",
+  "author": "Tanabodee Sangprajong <tanabodee.sa@gmail.com>",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "license": "MIT"
+}
